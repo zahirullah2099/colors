@@ -1,0 +1,31 @@
+/* color name */
+/* h1{
+    color: red;
+} */
+/* HEX color */
+/* h1{
+    color: #849348;
+} */
+/* RGB COLORS */
+/* h1{
+    color: rgb(89, 98, 22);
+} */
+/* BACKGROUND COLOR */
+/* body{
+    background-color: aqua;
+    color: maroon;
+} */
+/* div{
+    background-color: rgb(171, 232, 65);
+    color: maroon;
+} */
+/* OPICITY */
+/* .div1{
+    background-color: green;
+    opacity: .5;
+} */
+img{
+    opacity: 0.5;
+}
+
+ 
